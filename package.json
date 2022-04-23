@@ -2,7 +2,7 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-"homepage":"https://prownewton.github.io/bio-lab-web"
+"homepage":"https://prownewton.github.io/bio-lab-web",
   "engines": {
     "node": "16.13.1",
     "npm": "8.x"
